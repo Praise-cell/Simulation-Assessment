@@ -1,0 +1,6 @@
+{
+  "name": "Hello World Folio",
+  "description": "An interactive typographic and multilingual Hello World specimen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
